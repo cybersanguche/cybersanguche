@@ -1,7 +1,7 @@
 ### Welcome to my profile :P 👋
 
 
-### Front-end + pentester and more
+### cyber security...
 👋 Hi! I'm cyebersanguche.
 
 

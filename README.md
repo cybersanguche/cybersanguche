@@ -7,6 +7,6 @@
 
 - 👯 linux
 - 💬 python
-- ⚡ web
+- ⚡ cyberpunk
 
 
